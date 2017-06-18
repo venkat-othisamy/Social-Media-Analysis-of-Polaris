@@ -1,4 +1,4 @@
-# Social-Media-Analysis-of-Polaris
+# Social Media Analysis of Polaris
 
 This project is focussed on getting to know what people think of Polaris Industries. The initial thought was to know the people's sentiments on Polaris Industries' customer and vehicle service, vehicle experience, warranty terms etc. Also, this will help the company reaching out to users who talk negatively about Polaris and will help in finding out the negtive subject about Polaris.
 
