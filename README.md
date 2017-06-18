@@ -1,6 +1,6 @@
 # Social-Media-Analysis-of-Polaris
 
-This project is focussed on getting to know what people think of Polaris Industries. The initial thought was to know the people's sentiments on Polaris Industries' Customer and Vehicle service, Vehicle experience, Warranty terms etc. Also, this will help the company reaching out to users who talk negatively about Polaris and will help in finding out the negtive subject about Polaris.
+This project is focussed on getting to know what people think of Polaris Industries. The initial thought was to know the people's sentiments on Polaris Industries' customer and vehicle service, vehicle experience, warranty terms etc. Also, this will help the company reaching out to users who talk negatively about Polaris and will help in finding out the negtive subject about Polaris.
 
 Using, Twitter Official API we can extract tweets about specific keywords only for the previous seven days. The number of tweets about Polaris during the last seven days were very few and would not be useful for analysis. Similarly, the live stream extraction of tweets about Polaris would give only a few tweets for analysis.<br>
 
