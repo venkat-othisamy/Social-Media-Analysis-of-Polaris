@@ -34,9 +34,9 @@ To find out the most talked about topics in Social Media
 
 ## Limitations
 This is work in progress as this is an addendum
-<li>Could not infer anything on what people think about Polaris' service, Vechile experience and other factors. This is because, there were lot of spanish tweets, which spoilt our analysis.</li>
+<li>Could not infer anything on what people think about Polaris' service, vehile experience and other factors. This is because, there were lot of spanish tweets, which cluttered our analysis.</li>
 
 ## Road ahead
 <li>Need to filter non English language Tweets</li>
-<li>Need to filter commercial Tweets</li>
+<li>Need to find a way to filter commercial Tweets which include vehicle-selling tweets from users, spare parts selling tweets from commercial establishments </li>
 
