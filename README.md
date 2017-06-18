@@ -17,7 +17,7 @@ Text Analytics requires more instances than normal Analytics. Hence, we need to 
 
 ### Exploratory analysis
 <li> To find out users who tweets about Polaris most</li>
-<li> To find out months with most tweets and correlating with activites of Polaris</li>
+<li> To find out months with most tweets and correlating with activites of Polaris that month</li>
 
 ### Analysis
 #### Word cloud
