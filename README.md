@@ -2,9 +2,9 @@
 
 This project is focussed on getting to know what people think of Polaris Industries. The initial thought was to know the people's sentiments on Polaris Industries' customer and vehicle service, vehicle experience, warranty terms etc. Also, this will help the company reaching out to users who talk negatively about Polaris and will help in finding out the negtive subject about Polaris.
 
-Using, Twitter Official API we can extract tweets about specific keywords only for the previous seven days. The number of tweets about Polaris during the last seven days were very few and would not be useful for analysis. Similarly, the live stream extraction of tweets about Polaris would give only a few tweets for analysis.<br>
+Using Twitter Official API, we can extract tweets about specific keywords only for the previous seven days. The number of tweets about Polaris during the last seven days were very few and would not be useful for analysis. Similarly, the live stream extraction of tweets about Polaris would give only a few tweets for analysis.<br>
 
-Text Analytics requires more instances than normal Analytics. Hence, we need to get old tweets. Took help from https://github.com/Jefferson-Henrique/GetOldTweets-python" which mimicked the twitter search and fetched the tweets for time frames longer than 7 days.
+Text Analytics requires more instances than normal Analytics. Hence, we need to get old tweets. Took help from https://github.com/Jefferson-Henrique/GetOldTweets-python which mimicked the twitter search and fetched the tweets for time frames longer than 7 days.
 
 ## Steps
 ### Initial Cleaning of data
