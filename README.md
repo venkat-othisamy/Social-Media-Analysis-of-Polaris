@@ -29,9 +29,11 @@ To find what people think about Polaris' service and other things
 #### Topic modelling
 To find out the most talked about topics in Social Media
 
-## Limitations
+## Findings
 This is work in progress as this is an addendum
 <li>Found information about specific vehicle models about which people are happy and also found models about which people are not so happy.</li> 
+
+## Limitations
 <li>Could not infer anything on what people think about Polaris' service, Vechile experience and other factors. This is because, there were lot of spanish tweets, which spoilt our analysis.</li>
 
 ## Road ahead
